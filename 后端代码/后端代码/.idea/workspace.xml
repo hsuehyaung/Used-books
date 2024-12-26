@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="993a78b6-0034-409b-b64d-f4d5b838c164" name="默认变更列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2YQrT8n22lXnHWa8fQ8bOy2nxBn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="后端代码" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="993a78b6-0034-409b-b64d-f4d5b838c164" name="默认变更列表" comment="" />
+      <created>1700468649931</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700468649931</updated>
+      <workItem from="1700468651258" duration="6090000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="155" y="81" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1734608146959">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="155" y="81" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.816@0.0.1536.816" timestamp="1734608146959" />
+    <state width="1515" height="94" key="GridCell.Tab.0.bottom" timestamp="1734968141294">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="94" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1734968141294" />
+    <state width="1515" height="94" key="GridCell.Tab.0.center" timestamp="1734968141294">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="94" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1734968141294" />
+    <state width="1515" height="94" key="GridCell.Tab.0.left" timestamp="1734968141294">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="94" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1734968141294" />
+    <state width="1515" height="94" key="GridCell.Tab.0.right" timestamp="1734968141294">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="94" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1734968141294" />
+    <state width="1515" height="258" key="GridCell.Tab.1.bottom" timestamp="1734610103659">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="258" key="GridCell.Tab.1.bottom/0.0.1536.816@0.0.1536.816" timestamp="1734610103659" />
+    <state width="1515" height="258" key="GridCell.Tab.1.center" timestamp="1734610103659">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="258" key="GridCell.Tab.1.center/0.0.1536.816@0.0.1536.816" timestamp="1734610103659" />
+    <state width="1515" height="258" key="GridCell.Tab.1.left" timestamp="1734610103659">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="258" key="GridCell.Tab.1.left/0.0.1536.816@0.0.1536.816" timestamp="1734610103659" />
+    <state width="1515" height="258" key="GridCell.Tab.1.right" timestamp="1734610103659">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="258" key="GridCell.Tab.1.right/0.0.1536.816@0.0.1536.816" timestamp="1734610103659" />
+    <state x="270" y="53" key="SettingsEditor" timestamp="1734608187158">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="270" y="53" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1734608187158" />
+    <state x="468" y="0" width="600" height="816" key="find.popup" timestamp="1734934264939">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="468" y="0" width="600" height="816" key="find.popup/0.0.1536.816@0.0.1536.816" timestamp="1734934264939" />
+  </component>
+</project>
